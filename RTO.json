@@ -1,0 +1,603 @@
+{
+ "code": "M490H",
+ "connector": "RTO-144",
+ "type": "M490H - Line Input Module",
+ "series": null,
+ "contacts": "22 contacts, 4 contacts (P1), 21 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "LEFT PGRM 1",
+   "kind": "audio",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "MIC IN A",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "PGM",
+   "kind": "audio",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "2",
+   "signal": "LEFT PGRM 1",
+   "kind": "audio",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "PGM 3 OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "3",
+   "signal": "RIGHT PGRM 1",
+   "kind": "audio",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "PGM 3 OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "4",
+   "signal": "RIGHT PGRM 1",
+   "kind": "audio",
+   "pair": "A4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "PGM 2 OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "PGM 2 OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "6",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "PGM 4 OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "7",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "PGM 4 OUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "8",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "9",
+   "signal": "SHIELD",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "10",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "11",
+   "signal": "IC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "12",
+   "signal": "IC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "12",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "IC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "14",
+   "signal": "IC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "15",
+   "signal": "CUE OUT, LEFT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "15",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "CUE OUT, LEFT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "17",
+   "signal": "CUE OUT, RIGHT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "17",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "CUE OUT, RIGHT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "18",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+   "page": 29
+  },
+  {
+   "pin": "A",
+   "signal": "MIC IN A",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "C",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "E",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "H",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490H/M490H.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "J",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/20130725 - WBS M490H MODS.jpg",
+   "page": 1
+  },
+  {
+   "pin": "M",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/20130725 - WBS M490H MODS.jpg",
+   "page": 1
+  },
+  {
+   "pin": "N",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "P",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - LINE INPUT MODULE.jpg",
+   "page": 1
+  },
+  {
+   "pin": "U",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "V",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "Insert",
+   "designation": "JMP.6.7",
+   "from": "P2-6",
+   "to": "P2-7"
+  },
+  {
+   "function": "Insert",
+   "designation": "JMP.F.H",
+   "from": "P2-F",
+   "to": "P2-H"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "P2-19",
+   "ground": "P2-20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "P2-21",
+   "ground": "P2-20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M490H/M490H.rto144.json",
+  "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+  "Modules/INPUT-PRE-AMPS/M490H/MANUALS/20130725 - WBS M490H MODS.jpg",
+  "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC.jpg",
+  "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-02-009 - LINE INPUT MODULE.jpg"
+ ]
+}
