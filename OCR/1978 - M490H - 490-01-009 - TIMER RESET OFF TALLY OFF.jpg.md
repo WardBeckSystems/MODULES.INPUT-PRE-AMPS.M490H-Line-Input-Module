@@ -22,7 +22,7 @@ Wiki page: [M490H](../../../../PAGES/M490H.md)
 - **Words (OCR):** 37 in 34 lines: FADER · (-15dB) Ch ON · INSERT · 3I8 · NE inputs · 10/+20dBm · 600 ohm · SENSITivITY · (30dB) · INPUT · SELECToR · CONTROL
 - **Wiring (first pass):** 174 connected wire groups from 363 runs; labelled ends: 144 mm → PGmi, CUE, CTL, LoGIC; 128 mm → (-15dB); 103 mm → PGmi, CUE, CTL, LoGIC; 59 mm → 3I8; 55 mm → CUE
 
-Every curve, box, word and wire group: [1978 - M490H - 490-01-009 - TIMER RESET OFF TALLY OFF (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-01-009%20-%20TIMER%20RESET%20OFF%20TALLY%20OFF%20(traced).json) (the CAD file: `1978 - M490H - 490-01-009 - TIMER RESET OFF TALLY OFF (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - 490-01-009 - TIMER RESET OFF TALLY OFF (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-01-009%20-%20TIMER%20RESET%20OFF%20TALLY%20OFF%20%28traced%29.json) (the CAD file: `1978 - M490H - 490-01-009 - TIMER RESET OFF TALLY OFF (traced).dxf`).
 
 ## Full text
 

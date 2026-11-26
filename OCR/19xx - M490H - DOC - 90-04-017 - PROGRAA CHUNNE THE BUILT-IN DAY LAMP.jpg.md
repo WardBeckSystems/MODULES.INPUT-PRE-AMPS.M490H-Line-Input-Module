@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 40 in 34 lines: WBS · Irput  SELECTCR · Keclocked · gelectlon 0f elther · Are mutually · Gources · mixing nethomkg · cepresged_ · spprooriate · mizin busas, · nethorks · ATTERUATOF
 - **Title block:** (195, 20)–(432, 270) mm: WBS · cepresged_ · spprooriate · mizin busas, · nethorks · ATTERUATOF · uctlvated · chenrala buing · moved onto · Cpcue · Ell · iitch · 'oshe · shltch · related · ISSUL Date · WBS WVARD-Beck systems ·
 
-Every curve, box, word and wire group: [19xx - M490H - DOC - 90-04-017 - PROGRAA CHUNNE THE BUILT-IN DAY LAMP (traced).json](../MECHANICAL/19xx%20-%20M490H%20-%20DOC%20-%2090-04-017%20-%20PROGRAA%20CHUNNE%20THE%20BUILT-IN%20DAY%20LAMP%20(traced).json) (the CAD file: `19xx - M490H - DOC - 90-04-017 - PROGRAA CHUNNE THE BUILT-IN DAY LAMP (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M490H - DOC - 90-04-017 - PROGRAA CHUNNE THE BUILT-IN DAY LAMP (traced).json](../MECHANICAL/19xx%20-%20M490H%20-%20DOC%20-%2090-04-017%20-%20PROGRAA%20CHUNNE%20THE%20BUILT-IN%20DAY%20LAMP%20%28traced%29.json) (the CAD file: `19xx - M490H - DOC - 90-04-017 - PROGRAA CHUNNE THE BUILT-IN DAY LAMP (traced).dxf`).
 
 ## Full text
 

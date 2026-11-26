@@ -22,7 +22,7 @@ Wiki page: [M490H](../../../../PAGES/M490H.md)
 - **Words (OCR):** 37 in 33 lines: (EM · 44 44 · 28 · 44444 · 18 · 81 13 · 11 · 34& · 22} · 4449 · It · 47
 - **Title block:** (220, 0)–(329, 46) mm: WBS · DRN: · M49oh · PA · LINE INPUT MODULE · CKD: · COMPONENT LAYOUT · SCALL · IssuE
 
-Every curve, box, word and wire group: [1978 - M490H - 490-06-019 - ISSU IDATE REVISION (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-06-019%20-%20ISSU%20IDATE%20REVISION%20(traced).json) (the CAD file: `1978 - M490H - 490-06-019 - ISSU IDATE REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - 490-06-019 - ISSU IDATE REVISION (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-06-019%20-%20ISSU%20IDATE%20REVISION%20%28traced%29.json) (the CAD file: `1978 - M490H - 490-06-019 - ISSU IDATE REVISION (traced).dxf`).
 
 ## Full text
 

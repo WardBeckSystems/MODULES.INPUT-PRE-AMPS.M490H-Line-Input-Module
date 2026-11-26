@@ -20,7 +20,7 @@ Wiki page: [M490H](../../../../PAGES/M490H.md)
 - **Closed boxes:** 12; named: imput  Selector shitches Shi and ShZ : A
 - **Words (OCR):** 90 in 47 lines: WBS · M49o H · imput  Selector shitches Shi and ShZ : Are mutuely · Inter locked and · Iok selectIon of elther one 0f tho · Input souces · PROGRAA · depressed · feed · swltches · mlxIng networks · Sws when
 
-Every curve, box, word and wire group: [1978 - M490H - 490-04-018 - MOVING THE SLIDE JTTENUATOR BEYOND THE INFINITE POSITION (traced).json](../MECHANICAL/1978%20-%20M490H%20-%20490-04-018%20-%20MOVING%20THE%20SLIDE%20JTTENUATOR%20BEYOND%20THE%20INFINITE%20POSITION%20(traced).json) (the CAD file: `1978 - M490H - 490-04-018 - MOVING THE SLIDE JTTENUATOR BEYOND THE INFINITE POSITION (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - 490-04-018 - MOVING THE SLIDE JTTENUATOR BEYOND THE INFINITE POSITION (traced).json](../MECHANICAL/1978%20-%20M490H%20-%20490-04-018%20-%20MOVING%20THE%20SLIDE%20JTTENUATOR%20BEYOND%20THE%20INFINITE%20POSITION%20%28traced%29.json) (the CAD file: `1978 - M490H - 490-04-018 - MOVING THE SLIDE JTTENUATOR BEYOND THE INFINITE POSITION (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M490H](../../../../PAGES/M490H.md)
 - **Dots (junctions):** 10
 - **Words (OCR):** 11 in 9 lines: Mis · Ja · 13 · COMPONENT SIDE · WBS WARO-Deck bybtemB · LINE INPUT MODULE · M49oh · COMPONENT LAYQUT · Aon
 
-Every curve, box, word and wire group: [1978 - M490H - 490-06-019 - LINE INPUT MODULE (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-06-019%20-%20LINE%20INPUT%20MODULE%20(traced).json) (the CAD file: `1978 - M490H - 490-06-019 - LINE INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - 490-06-019 - LINE INPUT MODULE (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-06-019%20-%20LINE%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1978 - M490H - 490-06-019 - LINE INPUT MODULE (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M490H](../../../../PAGES/M490H.md)
 - **Words (OCR):** 17 in 12 lines: (~El5) WARD-SECK SYSTEMS LTD · 841'PAClGAIE9S "'VI!""'-'E · CINT"""CI """'i!)(4 · TELE>< · 08!'1 · Tl!LEI">iO"<III!! · 38·I1~~ · M490H · ps · BS · tp · ht
 - **Title block:** (111, 396)–(262, 420) mm: (~El5) WARD-SECK SYSTEMS LTD · 841'PAClGAIE9S "'VI!""'-'E · CINT"""CI """'i!)(4 · TELE>< · 08!'1 · Tl!LEI">iO"<III!!
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p1 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p1 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -33,7 +33,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p1 
 - **Dots (junctions):** 6
 - **Words (OCR):** 246 in 93 lines: WA · VSTE · LTO. · TECHNICAL DATA · M490H LINE NPUT MODUL · Input Sen slt llY: · _10 to · +20 Bm (ref. 600 onm source) · Fr eq en · Resp on · +/-0.5 · rom 30 Hz to 20 Hz
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p2 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p2 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p2 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (159.8, 329.5)
 - **Words (OCR):** 65 in 26 lines: WAR · BECK · LT · TEC HNICAL DAT · M490H LINE NPUT MODULE · Ma ximum supp ly voll age: · S41ur 1ed eeueeter- · vol14ge · veue max imum · 40 mA oa · Pow er ReQu emen ts · +/-25 vol ts ec 40 mA nominal 80 mA
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p3 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p3 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -54,7 +54,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p3 
 - **Dots (junctions):** 6
 - **Words (OCR):** 372 in 115 lines: WAR D-Be CK YSTEM L.TD · IRCUIT OESCR PTI ON · M490H LI NE INPUT MOOULE · The M490H prov ides comp l.l• · line in put fac lllt ies as · r-~u ir-ed · for- · milclng conso le · nc · ed · soun;. .I.etor · Pr"09 r-.m bus
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p4 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p4 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -65,7 +65,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p4 
 - **Dots (junctions):** 4
 - **Words (OCR):** 323 in 131 lines: WA~ · YSTEMS LTC. · RCUI · DESCRI PTION · M490H · NE INP UT MODULE · P..os · Ch nnel Swi lch · Is II CMOS an lliog wi tc · se · as the IIclive · eme
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p5 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p5 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -77,7 +77,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p5 
 - **Words (OCR):** 385 in 139 lines: WAR · CK SYST · LTD. · CI RCUIT DESCR IP TION · l8 · MOS dual flip-flop serving as · atch · maintain · statu · of · and Z5, once they · ave been se to either the ON or the OFF
 - **Title block:** (104, 125)–(292, 174) mm: tc · on · With QI2 · te · th · "control · pot ential app ears at · emll te · of · 13 and 0\4 · po sitiv · potential is appl ied to · he · 01 · or 01 · depend ing On · tc · SWI or SW2 · depressed. Eff 
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p6 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p6 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p6 
 - **Dots (junctions):** 4
 - **Words (OCR):** 325 in 150 lines: CK YSTEMS LTD. · CIRCU · DESCRIP ION · M490H LINE NP UT MODULE · Mome ar-y op er-atio... of th · CHANNEL OFF · ilc · SW8 or mom e...tar- · rou · cl sur-e of th · EXTERNAL CHANNEL · OFF contro
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p7 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p7 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -100,7 +100,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p7 
 - **Dots (junctions):** 2
 - **Words (OCR):** 178 in 94 lines: WARO ·SEC BY STEMS LTO. · IRCUI · DESCRIPTION · M490H LINE INPUT MODULE · The · pu · ..oduced at pin · of Z10 · Ill · wa · ne ga tive going · ul se of
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p8 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p8 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -111,7 +111,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p8 
 - **Dots (junctions):** 1
 - **Words (OCR):** 147 in 97 lines: CK SYSTEMS LT · M490H LINE · NPUT MODULE · DESCRIPTION · MFG PART NUMBER · Al le r'lUll lOr · Ic/w cOl'm ecl or · P.G · 1550 AH35 /100 · l!l · ll or · 0.01 of
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p9 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p9 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -121,7 +121,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p9 
 - **Dots (junctions):** 1
 - **Words (OCR):** 61 in 52 lines: WAAD BECIC · BYETEMB LTD; · AMAtBYB 493e dAav · PAKIZ · ULsjh LINE ThpUT MOouLE · PARL DescR PTio4 · PaAT HLMBEA · CApacitor · Agelco · Co9z-KC-632m · UF /25 · TJ903215432545
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p10 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p10 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -130,7 +130,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p10
 - **Outlines:** line 354 rings, 3,944 straight (6,418 mm) / 930 curved (1,472 mm); text 339 rings, 2,692 straight (3,059 mm) / 833 curved (1,395 mm)
 - **Words (OCR):** 104 in 80 lines: WAR D-BECK SYSTe MS LTD. · M'9OH LINE INPUT MOOULE · PART · DESCRIPTION · MFG PART NUMBER · CRII · Diode · F.irch ild · IN,f,148 · CRI2 · CRU · de lete
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p11 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p11 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -139,7 +139,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p11
 - **Outlines:** line 416 rings, 4,039 straight (6,722 mm) / 1,055 curved (1,675 mm); text 130 rings, 1,157 straight (1,338 mm) / 325 curved (517 mm)
 - **Words (OCR):** 21 in 15 lines: WARD ECK STOTEmE · @matata 49J0 OAAN · PARTS · Hlyuh LINc hPUT Moo ULE · CESCRIPTION · PALNY2 · Reelglor · Jniip · #DolO · Trim Poi · Pan · Pth
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p12 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p12 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -150,7 +150,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p12
 - **Dots (junctions):** 3
 - **Words (OCR):** 85 in 61 lines: WAR O-BECK SVSTEMS LT · M490H LINE INPUT MODULE · DESCRIPTION · MFG · MFG PART NUMBER · Res ist or · 4W 51 · 3K' · Phi ps · RU · IK · IK
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p13 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p13 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -159,7 +159,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p13
 - **Outlines:** line 320 rings, 3,073 straight (5,805 mm) / 752 curved (1,206 mm); text 247 rings, 2,064 straight (2,400 mm) / 592 curved (958 mm)
 - **Words (OCR):** 77 in 58 lines: WAR · CK YSTE · LTO. · M490H · HE HPUT MODULE · OEseR PT ON · en · Re si stor 1/4W · PhilIp · R82 · ss; · RaJ
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p14 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p14 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -170,7 +170,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p14
 - **Words (OCR):** 91 in 74 lines: WAR -BECK SYSTEMS LTD. · M490H Ml · NPUT MODULE · MFG PART NUMBER · RIU · Re$ i$tor · 4W 51 10" · Pk~lIp · R1l4 · R1l5 · JKJ · R1l6
 - **Title block:** (48, 403)–(131, 426) mm: WAR -BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p15 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p15 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -180,7 +180,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p15
 - **Words (OCR):** 127 in 75 lines: WAFlO- BECK SYSTEMS LTO. · M490H LI NE NPUT MODUL · DESCR IPTION · MFG PAR NUMBER · R148 · Re · tor 1!4W · 620 · Ph~,l lp · R149 · 1/2W · 150
 - **Title block:** (37, 36)–(250, 426) mm: WAFlO- BECK SYSTEMS LTO. · M490H LI NE NPUT MODUL · DESCR IPTION · R148 · Re · tor 1!4W · 620 · Ph~,l lp · R149 · 1/2W · 150 · SW1) · Sw tc · Ass · $ch dow · SW2) · SWJ · et ere · SW. · Sw itch · SWS 
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p16 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p16 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -191,7 +191,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p16
 - **Closed boxes:** 1
 - **Words (OCR):** 53 in 35 lines: ARD · EC SYS · M8 · LTD. · M490H · IN · IN PUT MODULE · CONTROL KNOBS CAPS AND BUTTONS · USED · MFG PART NUMBER · AUetluator Knob White · P3147 0/1
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p17 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p17 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -202,7 +202,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p17
 - **Closed boxes:** 4
 - **Words (OCR):** 97 in 53 lines: WAR D-BliCK SyS TE · LTD. · INTEGRATED IRCU IT DATA · C040 16 · QUAD · ATERAL SWITCH · The C0 4016 Is · uad bila eral wl le · which · li zes · an · N-ch an nal
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p18 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p18 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -214,7 +214,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p18
 - **Dots (junctions):** 2
 - **Words (OCR):** 126 in 58 lines: WAF=lO · SYS EM · NTEGRATED CIRCUIT DATA · zsszs · DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET · The · 74C76 · flip-flop is · mono lith fc · C~OS circuit. Ea · fl ip · flop has indepe nde
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p19 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p19 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -225,7 +225,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p19
 - **Dots (junctions):** 2
 - **Words (OCR):** 115 in 48 lines: YSTEMS LTC. · INTEGRATED CIRCUIT DATA · illill · DUAL HONOSTAB lE HUlTIYIBRATOR · The 74C221 dual monos tab le multfvibrator is · CHOS · ircuit · Eac multfvibrator features · negative ransitio · tr iggered inp ut and · positive -transition -triggered input eit her · of which can be used as an nh bit
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p20 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p20 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -237,7 +237,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p20
 - **Dots (junctions):** 3
 - **Words (OCR):** 105 in 57 lines: was · M410H · INPUT $[lECTOIt wl · tc:~s S'I', · Ar. IllUtual ly · In t.rl oc ked nd · ec tion of · ke,. · of two · ne Inpu · ourc · 10
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p21 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p21 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -249,7 +249,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p21
 - **Dots (junctions):** 1
 - **Words (OCR):** 79 in 37 lines: SENSIT VITY on · A2S: Prov ldu · corotlnuouly · st · ll le vel ont ro · re ng of 30 de. · PROGRAM · r.ed he sl gn.l · it SS IGNHEIrtT ,wi · tc.h · SW13 · $Wl" whe
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p22 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p22 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -260,7 +260,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p22
 - **Closed boxes:** 3; named: PGM/ CUE cn LOGIC
 - **Words (OCR):** 41 in 34 lines: r-311~INSERT · :lI(: · INPUTS · 20 Bm · 600 ohm · SENSITIVITY · INPUT · (JOdB) · SELECTOR · CONTROL · COM · CUE
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p23 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p23 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -274,7 +274,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p23
 - **Title block:** (113, 8)–(328, 108) mm: REV~ON · APP. · ps · DRN. PA · Ml · M490H · BS · ENG. · PA · LINE INPUT MODULE · CKD · FUNCTIONAL DIAGRAM · APP. · tp · ht · SCALE · ISSUE · 490-01-009
 - **Wiring (first pass):** 35 connected wire groups from 140 runs; labelled ends: 159 mm → P2; 85 mm → AS~GN; 33 mm → AJ, TALLY; 32 mm → P1; 16 mm → P2
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p24 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p24 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -286,7 +286,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p24
 - **Dots (junctions):** 1
 - **Words (OCR):** 109 in 91 lines: C,T · seca, · NO IIo.,l ,l\,L · SO · vo · Co · -,.L....L-o---J · ae Pl · '''''00 · P2 · P2 · Co"
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p25 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p25 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -298,7 +298,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p25
 - **Dots (junctions):** 3
 - **Words (OCR):** 81 in 70 lines: ce · t5 · PI-' PG/'f1 · 2-2 · A.lT · en · .77 · Z5 · /10 1C3 · 070 · P'S} M..1 · 2-2
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p26 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p26%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p26 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -310,7 +310,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p26
 - **Dots (junctions):** 4
 - **Words (OCR):** 9 in 8 lines: 1ft: · r-t,.." 11---1 · 11-0 · Tm.w~":',4,I..a!tL..J · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p27 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p27%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p27 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p27 (traced).dxf`).
 
 ### Page 28
 
@@ -322,7 +322,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p27
 - **Dots (junctions):** 6
 - **Words (OCR):** 17 in 11 lines: ps · 10 · BS CO 40 · OM PON ENT · \DE · '83 r3 · E.\lERSEJ> · ISSt.I: OAT( · .VISION · tp · ht
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p28 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p28%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p28 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p28 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p28%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p28 (traced).dxf`).
 
 ### Page 29
 
@@ -332,7 +332,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p28
 - **Closed boxes:** 28; named: 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21
 - **Words (OCR):** 101 in 73 lines: P1 · PGM · OUT · liNE · IN · PGM OUT · NC · PGM OUT · liNE · IN · PGM · OUT
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p29 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p29%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p29 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p29 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p29%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p29 (traced).dxf`).
 
 ### Page 30
 
@@ -344,7 +344,7 @@ Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p29
 - **Words (OCR):** 21 in 15 lines: ps · DRN. PA MAt · M490H · BS · ENG. · PA · ;L1NE INPUT MODULE · CKD. · CONNECTOR REAR VIEW · APP. · tp · SCALE
 - **Title block:** (119, 10)–(327, 73) mm: ps · DRN. PA MAt · M490H · BS · ENG. · PA · ;L1NE INPUT MODULE · CKD. · CONNECTOR REAR VIEW · APP. · tp · SCALE · ht · ISSUE · 490-04-017
 
-Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p30 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2)%20p30%20(traced).json) (the CAD file: `1978 - M490H - Line Input Module (2) p30 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - Line Input Module (2) p30 (traced).json](../MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20%282%29%20p30%20%28traced%29.json) (the CAD file: `1978 - M490H - Line Input Module (2) p30 (traced).dxf`).
 
 ## Full text
 

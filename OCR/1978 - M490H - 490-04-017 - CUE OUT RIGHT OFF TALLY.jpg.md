@@ -19,7 +19,7 @@ Wiki page: [M490H](../../../../PAGES/M490H.md)
 - **Closed boxes:** 39; named: 16; 17; 18; 20; 21; 22
 - **Words (OCR):** 86 in 67 lines: P1 · LINE · in · PGM · Out · NC · PGM OUt · LINE In · PGM OUt · NC · PGM · Out
 
-Every curve, box, word and wire group: [1978 - M490H - 490-04-017 - CUE OUT RIGHT OFF TALLY (traced).json](../MECHANICAL/1978%20-%20M490H%20-%20490-04-017%20-%20CUE%20OUT%20RIGHT%20OFF%20TALLY%20(traced).json) (the CAD file: `1978 - M490H - 490-04-017 - CUE OUT RIGHT OFF TALLY (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - 490-04-017 - CUE OUT RIGHT OFF TALLY (traced).json](../MECHANICAL/1978%20-%20M490H%20-%20490-04-017%20-%20CUE%20OUT%20RIGHT%20OFF%20TALLY%20%28traced%29.json) (the CAD file: `1978 - M490H - 490-04-017 - CUE OUT RIGHT OFF TALLY (traced).dxf`).
 
 ## Full text
 

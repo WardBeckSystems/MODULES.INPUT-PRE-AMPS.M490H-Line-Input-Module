@@ -22,7 +22,7 @@ Wiki page: [M490H](../../../../PAGES/M490H.md)
 - **Words (OCR):** 287 in 245 lines: c5 · Ri7 · inpuT · SElector · 4.7/25 · Riz · 22 · Sw · Isk · +24 · Sw2 · 03
 - **Wiring (first pass):** 178 connected wire groups from 925 runs; labelled ends: 197 mm → R23, 22, cio, RL; 130 mm → Rios, 3k3, Riiz, 5k; 126 mm → P2-H; 122 mm → 3K?, PzF, R36; 121 mm → ON, RIis, 424, 041
 
-Every curve, box, word and wire group: [1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-02-009%20-%20CAST%20COMPONENT%20DESIGNATIONS%20CRIC%20(traced).json) (the CAD file: `1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-02-009%20-%20CAST%20COMPONENT%20DESIGNATIONS%20CRIC%20%28traced%29.json) (the CAD file: `1978 - M490H - 490-02-009 - CAST COMPONENT DESIGNATIONS CRIC (traced).dxf`).
 
 ## Full text
 

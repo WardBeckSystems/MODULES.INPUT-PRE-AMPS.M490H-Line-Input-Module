@@ -24,7 +24,7 @@ Wiki page: [M490H](../../../../PAGES/M490H.md)
 - **Title block:** (139, 0)–(329, 49) mm: WBS WARD-BECK bybteMB · M49oh · ENG PA LINE INPUT MODULE · CKd · SCHEMATIC · App · REvERSED PA · SCALE · 490-02-009 · ISSUE · UsueIDATE · REvasion · APP
 - **Wiring (first pass):** 147 connected wire groups from 988 runs, 3 dotted junctions; labelled ends: 284 mm → 7 /io, Rio |, 30k, c32; 258 mm → Ri3c, iok, C49; 247 mm → c25, R34, R92, 22k; 242 mm → Ri4o, Jok, Tok, 012; 238 mm → 74014
 
-Every curve, box, word and wire group: [1978 - M490H - 490-02-009 - LINE INPUT MODULE (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-02-009%20-%20LINE%20INPUT%20MODULE%20(traced).json) (the CAD file: `1978 - M490H - 490-02-009 - LINE INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - 490-02-009 - LINE INPUT MODULE (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-02-009%20-%20LINE%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1978 - M490H - 490-02-009 - LINE INPUT MODULE (traced).dxf`).
 
 ## Full text
 

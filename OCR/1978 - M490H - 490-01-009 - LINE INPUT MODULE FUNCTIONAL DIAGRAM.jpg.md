@@ -23,7 +23,7 @@ Wiki page: [M490H](../../../../PAGES/M490H.md)
 - **Title block:** (112, 8)–(329, 110) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. PA · "8zY · M49OH · ENG_ PA · LINE INPUT MODULE · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 490-01-009
 - **Wiring (first pass):** 55 connected wire groups from 176 runs; labelled ends: 171 mm → P3; 30 mm → P3; 22 mm → ASSIGN; 15 mm → P3; 14 mm → P2
 
-Every curve, box, word and wire group: [1978 - M490H - 490-01-009 - LINE INPUT MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-01-009%20-%20LINE%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1978 - M490H - 490-01-009 - LINE INPUT MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490H - 490-01-009 - LINE INPUT MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M490H%20-%20490-01-009%20-%20LINE%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1978 - M490H - 490-01-009 - LINE INPUT MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 
