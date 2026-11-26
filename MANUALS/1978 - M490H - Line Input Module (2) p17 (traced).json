@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/a1dfc74c46d4f824-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1526, 2000],
+  "mm": [329.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 4.5, 309.6, 429.6],
+ "outlines": {
+  "line": {"rings": 289, "straight": {"n": 3290, "mm": 6568.8}, "curved": {"n": 728, "mm": 1201.2}},
+  "text": {"rings": 128, "straight": {"n": 991, "mm": 1144.8}, "curved": {"n": 289, "mm": 474.7}}
+ },
+ "circles": [
+  {"c": [122.2, 318.6], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [66.4, 318.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [65.4, 411.7, 70.2, 416.5], "w": 4.7, "h": 4.7, "from": "ring"}],
+ "text": {
+  "words": 53,
+  "lines": [
+   {"mm": [38.9, 410.6, 55.9, 416.2], "text": "ARD"},
+   {"mm": [66.7, 410.6, 101.3, 416.2], "text": "EC SYS"},
+   {"mm": [113.6, 410.6, 126.5, 416.2], "text": "M8"},
+   {"mm": [130.4, 410.6, 147.0, 416.4], "text": "LTD."},
+   {"mm": [127.2, 355.2, 145.3, 360.2], "text": "M490H"},
+   {"mm": [155.2, 355.2, 160.8, 360.4], "text": "IN"},
+   {"mm": [170.8, 355.2, 218.1, 360.4], "text": "IN PUT MODULE"},
+   {"mm": [111.0, 341.8, 233.8, 347.0], "text": "CONTROL KNOBS CAPS AND BUTTONS"},
+   {"mm": [45.6, 312.0, 62.0, 317.7], "text": "USED"},
+   {"mm": [233.2, 315.9, 294.9, 321.1], "text": "MFG PART NUMBER"},
+   {"mm": [86.4, 301.8, 165.6, 307.1], "text": "AUetluator Knob White"},
+   {"mm": [233.2, 302.0, 258.6, 307.3], "text": "P3147 0/1"},
+   {"mm": [45.3, 288.0, 56.3, 293.5], "text": "SWI"},
+   {"mm": [86.4, 288.4, 116.2, 293.7], "text": "Ba door"},
+   {"mm": [128.5, 288.4, 164.7, 293.7], "text": "lac;k/W'hlte)"},
+   {"mm": [233.2, 288.4, 278.7, 293.7], "text": "FA 101-BLK/W'H"},
+   {"mm": [45.3, 280.5, 55.1, 286.0], "text": "SW'"},
+   {"mm": [237.3, 269.0, 281.7, 274.3], "text": "A101-BLK!yEL"},
+   {"mm": [45.3, 267.7, 55.9, 273.2], "text": "SW'"},
+   {"mm": [122.6, 268.6, 164.7, 273.9], "text": "Bla c;k!Yellow"},
+   {"mm": [45.3, 261.5, 57.4, 267.0], "text": "SWS"},
+   {"mm": [45.3, 248.3, 56.6, 253.8], "text": "SW8"},
+   {"mm": [86.4, 248.5, 112.7, 253.8], "text": "P.B. Ca"},
+   {"mm": [122.6, 248.5, 144.4, 253.8], "text": "Amb ed"},
+   {"mm": [192.6, 248.7, 218.9, 254.0], "text": "Dlalight"},
+   {"mm": [233.2, 248.7, 259.7, 254.0], "text": "325 -0073"},
+   {"mm": [45.8, 234.3, 56.1, 239.8], "text": "SW'"},
+   {"mm": [126.5, 235.1, 136.9, 240.4], "text": "ed)"},
+   {"mm": [119.8, 221.9, 133.2, 227.2], "text": "(Gre"},
+   {"mm": [192.4, 221.9, 218.9, 227.2], "text": "Sc;hlldow"},
+   {"mm": [233.2, 221.9, 264.5, 227.2], "text": "FGK-GREY"},
+   {"mm": [273.8, 63.9, 294.3, 72.8], "text": "ps"},
+   {"mm": [262.5, 52.7, 284.1, 64.0], "text": "BS"},
+   {"mm": [240.5, 30.7, 258.9, 37.6], "text": "tp"},
+   {"mm": [233.4, 23.5, 253.9, 30.5], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 330 × 432 mm, 1526 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 4–430 mm up",
+  "- **Outlines:** line 289 rings, 3,290 straight (6,569 mm) / 728 curved (1,201 mm); text 128 rings, 991 straight (1,145 mm) / 289 curved (475 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.3 @ (122.2, 318.6), r 2.3 @ (66.4, 318.3)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 53 in 35 lines: ARD · EC SYS · M8 · LTD. · M490H · IN · IN PUT MODULE · CONTROL KNOBS CAPS AND BUTTONS · USED · MFG PART NUMBER · AUetluator Knob White · P3147 0/1"
+ ]
+}

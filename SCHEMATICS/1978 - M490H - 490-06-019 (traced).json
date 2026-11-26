@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490H/SCHEMATICS/1978 - M490H - 490-06-019.jpg",
+ "version": 1,
+ "trace": "_traces/fafa9d8fef2c258c.svg",
+ "sheet": {
+  "number": "490-06-019",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 180,
+  "px": [1525, 2000],
+  "mm": [329.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 1.7, 329.2, 431.9],
+ "outlines": {
+  "line": {"rings": 1378, "straight": {"n": 11814, "mm": 17571.3}, "curved": {"n": 3653, "mm": 3783.1}},
+  "text": {"rings": 152, "straight": {"n": 1173, "mm": 1074.5}, "curved": {"n": 412, "mm": 447.5}}
+ },
+ "circles": [
+  {"c": [53.6, 151.3], "r": 9.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [209.6, 237.5], "r": 4.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [106.0, 91.7], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [279.2, 89.8], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [20.8, 273.6], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [55.7, 92.0], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [107.9, 197.8], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [279.5, 192.3], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [146.3, 142.2], "r": 1.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [274.7, 185.8], "r": 0.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [213.7, 316.3, 239.9, 324.7], "w": 26.1, "h": 8.4, "from": "ring"},
+  {"mm": [251.7, 315.9, 277.9, 324.3], "w": 26.1, "h": 8.5, "from": "ring"},
+  {"mm": [279.8, 315.4, 305.7, 323.9], "w": 25.9, "h": 8.5, "from": "ring"},
+  {"mm": [185.6, 299.2, 211.4, 305.5], "w": 25.7, "h": 6.3, "from": "ring"},
+  {"mm": [213.5, 298.8, 239.9, 305.3], "w": 26.3, "h": 6.5, "from": "ring"},
+  {"mm": [206.4, 285.6, 210.1, 295.4], "w": 3.7, "h": 9.7, "from": "ring"},
+  {"mm": [235.1, 285.2, 238.6, 294.7], "w": 3.5, "h": 9.5, "from": "ring"},
+  {"mm": [182.8, 274.2, 191.3, 285.4], "w": 8.5, "h": 11.2, "from": "ring"},
+  {"mm": [233.4, 273.5, 242.0, 284.8], "w": 8.6, "h": 11.3, "from": "ring"},
+  {"mm": [52.0, 236.8, 57.0, 242.0], "w": 5.0, "h": 5.2, "from": "ring"},
+  {"mm": [118.2, 202.3, 120.5, 204.5], "w": 2.3, "h": 2.2, "from": "ring"},
+  {"mm": [271.6, 200.8, 274.0, 203.2], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [3.0, 155.0, 5.2, 157.2], "w": 2.2, "h": 2.2, "from": "ring"},
+  {"mm": [37.6, 148.5, 40.2, 153.1], "w": 2.6, "h": 4.5, "from": "ring"},
+  {"mm": [147.2, 150.5, 149.8, 152.9], "w": 2.6, "h": 2.4, "from": "ring"},
+  {"mm": [289.1, 142.3, 291.7, 144.7], "w": 2.6, "h": 2.4, "from": "ring"},
+  {"mm": [135.2, 64.3, 137.5, 80.1], "w": 2.4, "h": 15.8, "from": "ring"},
+  {"mm": [172.7, 63.9, 174.9, 79.7], "w": 2.2, "h": 15.8, "from": "ring"},
+  {"mm": [178.8, 63.9, 181.1, 79.7], "w": 2.4, "h": 15.8, "from": "ring"},
+  {"mm": [197.3, 63.7, 199.7, 79.2], "w": 2.4, "h": 15.5, "from": "ring"},
+  {"mm": [203.6, 63.5, 206.0, 79.2], "w": 2.4, "h": 15.8, "from": "ring"},
+  {"mm": [247.2, 63.0, 249.6, 78.6], "w": 2.4, "h": 15.5, "from": "ring"},
+  {"mm": [253.5, 63.0, 255.6, 78.6], "w": 2.2, "h": 15.5, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [
+  {"c": [260.3, 260.4], "r": 0.6, "lines": 0},
+  {"c": [269.3, 255.9], "r": 0.6, "lines": 0},
+  {"c": [269.1, 243.6], "r": 0.6, "lines": 0},
+  {"c": [259.9, 237.3], "r": 0.6, "lines": 0},
+  {"c": [296.6, 235.2], "r": 0.6, "lines": 0},
+  {"c": [268.9, 231.3], "r": 0.6, "lines": 0},
+  {"c": [23.3, 149.6], "r": 1.0, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout 490-06-019, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px), turned 180°",
+  "- **Ink extent:** 0–329 mm across, 2–432 mm up",
+  "- **Outlines:** line 1,378 rings, 11,814 straight (17,571 mm) / 3,653 curved (3,783 mm); text 152 rings, 1,173 straight (1,074 mm) / 412 curved (448 mm)",
+  "- **Circles and arcs:** 10 circles, 0 arcs; largest r 9.2 @ (53.6, 151.3), r 4.6 @ (209.6, 237.5), r 3.8 @ (106.0, 91.7), r 3.7 @ (279.2, 89.8)",
+  "- **Closed boxes:** 23",
+  "- **Dots (junctions):** 7"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/a1dfc74c46d4f824-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1526, 2000],
+  "mm": [329.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 17.5, 309.6, 429.4],
+ "outlines": {
+  "line": {"rings": 416, "straight": {"n": 4039, "mm": 6721.6}, "curved": {"n": 1055, "mm": 1674.8}},
+  "text": {"rings": 130, "straight": {"n": 1157, "mm": 1337.9}, "curved": {"n": 325, "mm": 516.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [32.0, 409.1, 127.6, 418.5], "text": "WARD ECK STOTEmE"},
+   {"mm": [215.0, 411.5, 310.0, 417.7], "text": "@matata 49J0 OAAN"},
+   {"mm": [151.1, 369.6, 171.4, 375.9], "text": "PARTS"},
+   {"mm": [124.6, 355.6, 216.5, 361.8], "text": "Hlyuh LINc hPUT Moo ULE"},
+   {"mm": [74.7, 329.0, 118.3, 335.3], "text": "CESCRIPTION"},
+   {"mm": [248.5, 326.9, 296.9, 336.2], "text": "PALNY2"},
+   {"mm": [74.7, 315.0, 102.8, 321.2], "text": "Reelglor"},
+   {"mm": [185.5, 315.0, 208.8, 321.2], "text": "Jniip"},
+   {"mm": [249.1, 315.0, 266.2, 321.2], "text": "#DolO"},
+   {"mm": [76.4, 175.1, 106.0, 181.3], "text": "Trim Poi"},
+   {"mm": [185.5, 176.6, 204.2, 181.2], "text": "Pan"},
+   {"mm": [233.6, 176.6, 252.4, 181.2], "text": "Pth"},
+   {"mm": [74.7, 162.6, 102.8, 167.1], "text": "'Keaic7"},
+   {"mm": [185.5, 162.6, 208.8, 168.8], "text": "Philin"},
+   {"mm": [248.5, 35.0, 301.4, 88.0], "text": "MABSps €"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 330 × 432 mm, 1526 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–310 mm across, 18–429 mm up",
+  "- **Outlines:** line 416 rings, 4,039 straight (6,722 mm) / 1,055 curved (1,675 mm); text 130 rings, 1,157 straight (1,338 mm) / 325 curved (517 mm)",
+  "- **Words (OCR):** 21 in 15 lines: WARD ECK STOTEmE · @matata 49J0 OAAN · PARTS · Hlyuh LINc hPUT Moo ULE · CESCRIPTION · PALNY2 · Reelglor · Jniip · #DolO · Trim Poi · Pan · Pth"
+ ]
+}

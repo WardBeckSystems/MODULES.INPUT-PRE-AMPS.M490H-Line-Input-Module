@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/a1dfc74c46d4f824-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1526, 2000],
+  "mm": [329.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.8, 20.7, 304.9, 429.4],
+ "outlines": {
+  "line": {"rings": 59, "straight": {"n": 1185, "mm": 3538.1}, "curved": {"n": 190, "mm": 323.2}},
+  "text": {"rings": 46, "straight": {"n": 556, "mm": 700.2}, "curved": {"n": 139, "mm": 257.1}},
+  "tb": {"rings": 28, "straight": {"n": 322, "mm": 514.4}, "curved": {"n": 67, "mm": 103.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [42.1, 393.2, 281.1, 412.1], "text": "(~El5) WARD-SECK SYSTEMS LTD"},
+   {"mm": [117.7, 398.6, 182.2, 403.3], "text": "841'PAClGAIE9S \"'VI!\"\"'-'E"},
+   {"mm": [230.6, 398.6, 280.0, 403.3], "text": "CINT\"\"\"CI \"\"\"'i!)(4"},
+   {"mm": [117.9, 393.4, 133.0, 397.2], "text": "TELE><"},
+   {"mm": [138.2, 392.9, 148.8, 397.7], "text": "08!'1"},
+   {"mm": [206.0, 393.4, 236.2, 397.2], "text": "Tl!LEI\">iO\"<III!!"},
+   {"mm": [256.3, 392.9, 280.0, 397.7], "text": "38·I1~~"},
+   {"mm": [140.8, 211.2, 188.5, 223.9], "text": "M490H"},
+   {"mm": [273.8, 63.9, 294.3, 72.8], "text": "ps"},
+   {"mm": [262.5, 52.7, 284.1, 64.0], "text": "BS"},
+   {"mm": [240.5, 30.7, 258.9, 37.6], "text": "tp"},
+   {"mm": [233.4, 23.5, 253.9, 30.5], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [111.4, 395.6, 261.5, 420.3],
+  "from": "title-block words (training set)",
+  "text": ["(~El5) WARD-SECK SYSTEMS LTD", "841'PAClGAIE9S \"'VI!\"\"'-'E", "CINT\"\"\"CI \"\"\"'i!)(4", "TELE><", "08!'1", "Tl!LEI\">iO\"<III!!"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 330 × 432 mm, 1526 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–305 mm across, 21–429 mm up",
+  "- **Outlines:** line 59 rings, 1,185 straight (3,538 mm) / 190 curved (323 mm); text 46 rings, 556 straight (700 mm) / 139 curved (257 mm); tb 28 rings, 322 straight (514 mm) / 67 curved (104 mm)",
+  "- **Words (OCR):** 17 in 12 lines: (~El5) WARD-SECK SYSTEMS LTD · 841'PAClGAIE9S \"'VI!\"\"'-'E · CINT\"\"\"CI \"\"\"'i!)(4 · TELE>< · 08!'1 · Tl!LEI\">iO\"<III!! · 38·I1~~ · M490H · ps · BS · tp · ht",
+  "- **Title block:** (111, 396)–(262, 420) mm: (~El5) WARD-SECK SYSTEMS LTD · 841'PAClGAIE9S \"'VI!\"\"'-'E · CINT\"\"\"CI \"\"\"'i!)(4 · TELE>< · 08!'1 · Tl!LEI\">iO\"<III!!"
+ ]
+}

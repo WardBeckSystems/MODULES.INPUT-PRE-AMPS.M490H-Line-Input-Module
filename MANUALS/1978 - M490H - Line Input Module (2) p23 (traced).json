@@ -1,0 +1,90 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/a1dfc74c46d4f824-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1525, 2000],
+  "mm": [329.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, 0.0, 329.2, 430.1],
+ "outlines": {
+  "line": {"rings": 378, "straight": {"n": 4278, "mm": 8060.9}, "curved": {"n": 834, "mm": 1329.8}},
+  "text": {"rings": 233, "straight": {"n": 1657, "mm": 2483.4}, "curved": {"n": 444, "mm": 672.9}}
+ },
+ "circles": [
+  {"c": [201.8, 149.5], "r": 4.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [7.8, 263.8], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [259.4, 322.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [26.1, 269.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [36.7, 80.6], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [125.5, 128.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [11.7, 114.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [36.4, 247.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [34.0, 160.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [12.6, 80.7], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [248.7, 303.8, 262.8, 317.8], "w": 14.0, "h": 14.0, "from": "ring"},
+  {"mm": [279.8, 184.4, 293.8, 198.7], "w": 14.0, "h": 14.3, "from": "ring"},
+  {"mm": [162.6, 118.5, 181.3, 189.8], "w": 18.7, "h": 71.2, "from": "ring", "words": ["PGM/", "CUE", "cn", "LOGIC"]}
+ ],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [96.9, 306.4, 204.0, 327.5], "text": "r-311~INSERT"},
+   {"mm": [75.1, 307.4, 94.8, 318.7], "text": ":lI(:"},
+   {"mm": [9.5, 308.7, 32.0, 314.0], "text": "INPUTS"},
+   {"mm": [12.1, 299.7, 31.5, 304.9], "text": "20 Bm"},
+   {"mm": [2.2, 294.5, 24.8, 299.8], "text": "600 ohm"},
+   {"mm": [134.3, 282.8, 171.9, 288.1], "text": "SENSITIVITY"},
+   {"mm": [6.5, 273.5, 24.6, 278.8], "text": "INPUT"},
+   {"mm": [144.0, 273.5, 163.4, 278.8], "text": "(JOdB)"},
+   {"mm": [0.4, 265.3, 32.2, 270.6], "text": "SELECTOR"},
+   {"mm": [1.9, 258.9, 29.8, 264.1], "text": "CONTROL"},
+   {"mm": [29.6, 245.9, 42.7, 251.2], "text": "COM"},
+   {"mm": [123.3, 176.0, 135.4, 181.2], "text": "CUE"},
+   {"mm": [34.8, 167.5, 43.8, 172.8], "text": "ON"},
+   {"mm": [164.3, 166.5, 180.1, 171.7], "text": "PGM/"},
+   {"mm": [0.0, 160.8, 26.3, 166.1], "text": "KTERNAL"},
+   {"mm": [0.2, 155.9, 43.8, 161.2], "text": "ONTROLS Off"},
+   {"mm": [166.9, 156.3, 179.0, 161.6], "text": "CUE"},
+   {"mm": [167.1, 145.3, 178.8, 153.9], "text": "cn"},
+   {"mm": [32.0, 146.4, 44.0, 151.7], "text": "CUE"},
+   {"mm": [209.2, 145.7, 221.9, 151.0], "text": "CUE"},
+   {"mm": [237.3, 145.7, 269.9, 151.0], "text": "ACHON"},
+   {"mm": [74.7, 135.8, 107.5, 141.1], "text": "CH ON)(-"},
+   {"mm": [163.7, 135.8, 181.4, 141.1], "text": "LOGIC"},
+   {"mm": [111.0, 123.9, 135.2, 129.2], "text": "CH OFF"},
+   {"mm": [138.2, 123.1, 149.2, 130.7], "text": ">lE-"},
+   {"mm": [10.1, 109.0, 43.4, 114.3], "text": "ON/START"},
+   {"mm": [1.3, 99.1, 43.4, 104.4], "text": "TIMER RESET"},
+   {"mm": [9.7, 88.1, 43.4, 93.4], "text": "OFF TALLY"},
+   {"mm": [125.0, 81.2, 135.6, 88.1], "text": "'LV"},
+   {"mm": [11.2, 76.6, 43.6, 81.9], "text": "OFF/STOP"},
+   {"mm": [279.4, 58.1, 299.9, 67.0], "text": "ps"},
+   {"mm": [268.1, 46.9, 289.5, 58.1], "text": "BS"},
+   {"mm": [245.9, 24.8, 264.0, 31.8], "text": "tp"},
+   {"mm": [239.0, 17.9, 259.5, 24.9], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 0–430 mm up",
+  "- **Outlines:** line 378 rings, 4,278 straight (8,061 mm) / 834 curved (1,330 mm); text 233 rings, 1,657 straight (2,483 mm) / 444 curved (673 mm)",
+  "- **Circles and arcs:** 10 circles, 0 arcs; largest r 4.4 @ (201.8, 149.5), r 2.3 @ (7.8, 263.8), r 2.3 @ (259.4, 322.5), r 2.3 @ (26.1, 269.5)",
+  "- **Closed boxes:** 3; named: PGM/ CUE cn LOGIC",
+  "- **Words (OCR):** 41 in 34 lines: r-311~INSERT · :lI(: · INPUTS · 20 Bm · 600 ohm · SENSITIVITY · INPUT · (JOdB) · SELECTOR · CONTROL · COM · CUE"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/7f16838f647c3f86-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1526, 2000],
+  "mm": [329.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.8, 20.7, 304.9, 429.4],
+ "outlines": {
+  "line": {"rings": 28, "straight": {"n": 614, "mm": 2639.1}, "curved": {"n": 75, "mm": 121.6}},
+  "text": {"rings": 103, "straight": {"n": 1330, "mm": 1813.5}, "curved": {"n": 315, "mm": 546.6}},
+  "tb": {"rings": 2, "straight": {"n": 99, "mm": 291.2}, "curved": {"n": 5, "mm": 15.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [117.9, 403.9, 195.0, 413.8], "text": "WAAD-BECK"},
+   {"mm": [197.8, 403.9, 285.6, 414.3], "text": "SYSTEMS LTD;"},
+   {"mm": [47.3, 396.0, 280.9, 410.6], "text": "WBS PAOGAESS AVENUE, SCAABOAOUGH, ONTARIO M1h2*4"},
+   {"mm": [116.8, 399.6, 126.9, 403.9], "text": "841"},
+   {"mm": [116.8, 393.8, 169.9, 399.1], "text": "TeLeX 065-25399"},
+   {"mm": [205.3, 393.8, 280.9, 399.1], "text": "TeLEPHONE 416/430-6550"},
+   {"mm": [139.3, 211.2, 190.9, 227.7], "text": "M49OH"},
+   {"mm": [127.2, 193.2, 201.7, 203.3], "text": "LINE INPUT MODULE"}
+  ]
+ },
+ "title_block": {
+  "mm": [40.6, 387.3, 292.3, 422.9],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK", "SYSTEMS LTD;", "WBS PAOGAESS AVENUE, SCAABOAOUGH, ONTARIO M1h2*4", "841", "TeLeX 065-25399", "TeLEPHONE 416/430-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 330 × 432 mm, 1526 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–305 mm across, 21–429 mm up",
+  "- **Outlines:** line 28 rings, 614 straight (2,639 mm) / 75 curved (122 mm); text 103 rings, 1,330 straight (1,814 mm) / 315 curved (547 mm); tb 2 rings, 99 straight (291 mm) / 5 curved (15.3 mm)",
+  "- **Words (OCR):** 12 in 8 lines: WAAD-BECK · SYSTEMS LTD; · WBS PAOGAESS AVENUE, SCAABOAOUGH, ONTARIO M1h2*4 · 841 · TeLeX 065-25399 · TeLEPHONE 416/430-6550 · M49OH · LINE INPUT MODULE",
+  "- **Title block:** (41, 387)–(292, 423) mm: WAAD-BECK · SYSTEMS LTD; · WBS PAOGAESS AVENUE, SCAABOAOUGH, ONTARIO M1h2*4 · 841 · TeLeX 065-25399 · TeLEPHONE 416/430-6550"
+ ]
+}

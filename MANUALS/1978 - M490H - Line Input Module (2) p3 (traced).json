@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/1978 - M490H - Line Input Module (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/a1dfc74c46d4f824-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1526, 2000],
+  "mm": [329.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [20.7, 15.2, 329.5, 427.9],
+ "outlines": {
+  "line": {"rings": 146, "straight": {"n": 1781, "mm": 4005.7}, "curved": {"n": 389, "mm": 615.1}},
+  "text": {"rings": 226, "straight": {"n": 1851, "mm": 2103.6}, "curved": {"n": 510, "mm": 814.2}}
+ },
+ "circles": [{"c": [159.8, 329.5], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 65,
+  "lines": [
+   {"mm": [28.1, 409.3, 46.2, 414.6], "text": "WAR"},
+   {"mm": [57.9, 409.3, 80.7, 414.6], "text": "BECK"},
+   {"mm": [127.4, 409.3, 134.9, 414.9], "text": "LT"},
+   {"mm": [141.6, 367.0, 192.6, 372.3], "text": "TEC HNICAL DAT"},
+   {"mm": [123.7, 353.6, 214.2, 358.9], "text": "M490H LINE NPUT MODULE"},
+   {"mm": [42.3, 326.4, 128.7, 331.7], "text": "Ma ximum supp ly voll age:"},
+   {"mm": [42.3, 319.7, 106.4, 325.0], "text": "S41ur 1ed eeueeter-"},
+   {"mm": [42.7, 313.3, 66.5, 318.5], "text": "vol14ge"},
+   {"mm": [151.1, 313.3, 198.2, 318.5], "text": "veue max imum"},
+   {"mm": [215.3, 313.3, 248.1, 318.5], "text": "40 mA oa"},
+   {"mm": [42.7, 300.1, 107.7, 305.4], "text": "Pow er ReQu emen ts"},
+   {"mm": [140.1, 300.1, 272.2, 305.4], "text": "+/-25 vol ts ec 40 mA nominal 80 mA"},
+   {"mm": [140.1, 293.0, 169.3, 298.3], "text": "maximum"},
+   {"mm": [42.5, 279.8, 91.5, 285.1], "text": "Ambient Tempe"},
+   {"mm": [147.9, 279.8, 217.4, 285.1], "text": "10 60 degree Cel siu"},
+   {"mm": [42.7, 266.4, 74.5, 271.7], "text": "Dim en sion"},
+   {"mm": [185.2, 266.4, 223.0, 271.7], "text": "14. 15\" high"},
+   {"mm": [257.4, 266.4, 267.1, 271.7], "text": "eep"},
+   {"mm": [141.0, 259.9, 164.1, 265.2], "text": "(41 mm"},
+   {"mm": [176.4, 259.7, 185.5, 265.0], "text": "360"},
+   {"mm": [190.0, 259.9, 199.5, 265.2], "text": "mm"},
+   {"mm": [212.0, 259.9, 237.5, 265.2], "text": "165 mm)"},
+   {"mm": [273.8, 63.9, 294.3, 72.8], "text": "ps"},
+   {"mm": [262.5, 52.7, 284.1, 64.0], "text": "BS"},
+   {"mm": [240.5, 30.7, 258.9, 37.6], "text": "tp"},
+   {"mm": [233.4, 23.5, 253.9, 30.5], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 330 × 432 mm, 1526 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 21–330 mm across, 15–428 mm up",
+  "- **Outlines:** line 146 rings, 1,781 straight (4,006 mm) / 389 curved (615 mm); text 226 rings, 1,851 straight (2,104 mm) / 510 curved (814 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (159.8, 329.5)",
+  "- **Words (OCR):** 65 in 26 lines: WAR · BECK · LT · TEC HNICAL DAT · M490H LINE NPUT MODULE · Ma ximum supp ly voll age: · S41ur 1ed eeueeter- · vol14ge · veue max imum · 40 mA oa · Pow er ReQu emen ts · +/-25 vol ts ec 40 mA nominal 80 mA"
+ ]
+}
