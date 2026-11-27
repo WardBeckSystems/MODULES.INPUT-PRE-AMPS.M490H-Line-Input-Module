@@ -1,0 +1,211 @@
+{
+ "module": "M490H",
+ "title": "M490H LINE INPUT MODULE",
+ "source": {
+  "file": "MANUALS/1978 - M490H - Line Input Module (2).pdf",
+  "page": 2
+ },
+ "ocr_quality": 0.78,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input Sen slt l v llY",
+   "key": "input_sen_slt_l_v_lly",
+   "text": "10 to +20 dBm (ref. 600 onm source).",
+   "quantities": [
+    {
+     "from": 10,
+     "to": 20,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.5 d B from 30 Hz to 20 kHz.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "No l . e",
+   "key": "no_l_e",
+   "text": "70 dBm below nominal ope ratinll level, w1th SENSITIVITY set III -10 dBm, ml.. l nll an enua tor.et at 15 dB \" In hand \" 120 Hz t o 20 kHz). Noised ec..eases a s S£NSITI VI TY 15 d ec..eased.",
+   "quantities": [
+    {
+     "value": 70,
+     "unit": "dBm"
+    },
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 15,
+     "unit": "dB"
+    },
+    {
+     "value": 120,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "on: Less than 0.3SS THD from 30 Hz 10 20 kHz a l 20 dB above nominal ope..atlng level or less. Less than O. I Sal 1 kHz al 20 d B above",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Nom l n e l QI",
+   "key": "nom_l_n_e_l_qi",
+   "text": "lerati n g level or less. Less Ihan 0.51 at 1 kHz throullh cue Channel at 20 dB above nominal",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    }
+   ],
+   "items": [
+    {
+     "name": "QI",
+     "text": "leralin$l level or less.",
+     "quantities": [],
+     "key": "qi"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms, b al anced/unbal.nced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "24,000 ohms.",
+   "quantities": [
+    {
+     "value": 24000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "30,000 on ms, balanced (pl\"Og,.am c ircul lS). 60,000 ohms, balanced (cu e circuit.).",
+   "quantities": [
+    {
+     "value": 60000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "o dBm nominal, +25 dBm ma.. imum (equ i v alent volta g e 600 ohms).",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output t e.....,n.ls designated by numbe\"s er-e in phase, or lower n u mbe,. of numbered p a i,. I sIn phase with lower numb _ of other numbered pair:"
+  },
+  {
+   "name": "Logic Inpul Level l'",
+   "key": "logic_inpul_level_l",
+   "text": "(to QI:le,.ale CH ON, CH OFF (; CUE).",
+   "items": [
+    {
+     "name": "Logic 0",
+     "text": "0 10 +13 volts.",
+     "quantities": [
+      {
+       "value": 13,
+       "unit": "volts"
+      }
+     ],
+     "key": "logic_0"
+    },
+    {
+     "name": "Logic I",
+     "text": "+16 to +24 v e ua,",
+     "quantities": [
+      {
+       "from": 16,
+       "to": 24,
+       "unit": "v"
+      }
+     ],
+     "key": "logic_i"
+    }
+   ]
+  },
+  {
+   "name": "E.tternal Conlrol OUIPU l",
+   "key": "e_tternal_conlrol_ouipu_l",
+   "text": "(Open eeuectee c u..rent sink)."
+  },
+  {
+   "name": "Minimum load impedance",
+   "key": "minimum_load_impedance",
+   "text": "600 ohms. M~Il<1 mUm load cu....enl: 40 mAo.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  }
+ ]
+}

@@ -13,6 +13,161 @@ Ward-Beck Systems M490H, 1978|11. Wiki page: [M490H on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 35 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [3 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1978 - M490H - Line Input Module (2).pdf](MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2).pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input Sen slt l v llY** | 10 to +20 dBm (ref. 600 onm source). |
+| **Frequency response** | +/-0.5 d B from 30 Hz to 20 kHz. |
+| **No l . e** | 70 dBm below nominal ope ratinll level, w1th SENSITIVITY set III -10 dBm, ml.. l nll an enua tor.et at 15 dB &quot; In hand &quot; 120 Hz t o 20 kHz). Noised ec..eases a s S£NSITI VI TY 15 d ec..eased. |
+| **Harmonic distortion** | on: Less than 0.3SS THD from 30 Hz 10 20 kHz a l 20 dB above nominal ope..atlng level or less. Less than O. I Sal 1 kHz al 20 d B above |
+| **Nom l n e l QI** | lerati n g level or less. Less Ihan 0.51 at 1 kHz throullh cue Channel at 20 dB above nominal |
+| &nbsp;&nbsp;QI | leralin$l level or less. |
+| **Source impedance** | 600 ohms, b al anced/unbal.nced. |
+| **Input impedance** | 24,000 ohms. |
+| **Output impedances** | 30,000 on ms, balanced (pl&quot;Og,.am c ircul lS). 60,000 ohms, balanced (cu e circuit.). |
+| **Output level** | o dBm nominal, +25 dBm ma.. imum (equ i v alent volta g e 600 ohms). |
+| **Phasing** | Input and output t e.....,n.ls designated by numbe&quot;s er-e in phase, or lower n u mbe,. of numbered p a i,. I sIn phase with lower numb _ of other numbered pair: |
+| **Logic Inpul Level l'** | (to QI:le,.ale CH ON, CH OFF (; CUE). |
+| &nbsp;&nbsp;Logic 0 | 0 10 +13 volts. |
+| &nbsp;&nbsp;Logic I | +16 to +24 v e ua, |
+| **E.tternal Conlrol OUIPU l** | (Open eeuectee c u..rent sink). |
+| **Minimum load impedance** | 600 ohms. M~Il&lt;1 mUm load cu....enl: 40 mAo. |
+
+## Circuit description
+
+From [1978 - M490H - Line Input Module (2).pdf](MANUALS/1978%20-%20M490H%20-%20Line%20Input%20Module%20(2).pdf) pages 5-10 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+P..os.... m Ch.. nnel Swi lch
+
+2 2 Is II CMOS an lliog switch, se..v l n gas the IIclive s w i l chin gel eme n l of Ih e PROGRAM channel. The cont r-ol voltage t o ocer-e t e Z2 i s de.. lved from Ih e logic cil&quot;'Cuit ry within the module and Is coupled to Z2 viII CR I. to switch the ch &quot;nnel ON, this control voltllge Is I nth e o..d er of &quot;'0 volts. When the control v oll llg e drops to 0 volts, the switch will b e OFF,..es ult ing in II signal a tten u a t ion of more than 100 dB.
+
+FOllowing Z2, Integrated circuits Z3 lind Z4 amplify the lIud io. Ig n ll l to a nominal level of 0 dBm { Ilqui val enl voltage). From the &quot; mpH f le r outpvt, Ih e.I g n a l Is routed 10 the PROGRAM ASSIGN sw i l che. SW4, SWS, SW13, SW14 followed by the mixing bus ou lput s.
+
+Pr Ogrllm Outputs
+
+Fou.. PROGRAM output. PI, P2, P3 6 P4, lire d e.lgned to feed Into four mixing buses. Ope..ation of ASSIGNMENT SWITCHES SW4, SWS, SW13 6 SW14 will r esvlt in I he II U i g n men t of Ih e PROGRAM to the II p prop r l ll le mixing buses.
+
+The CUE.Igna l originate. from abridging lake off a t the Input of the. l l de a tt enuator. Owing to the high Input Imp e dance of Ihe CUE channel lI s ope..ation has no effect On I he main PROGRAM chllnnel. ZS..epr esent s thea u d ios w i l c h for the CUE channel. Simi l&quot;rly to Z 2, the control voltage for 2S I s generated in th&quot; logic c il&quot;'Cuitry li See ee..i bed further on. The output of 2 5 I. followed by the booster amplifier 26, which in lu..n feeds I he eve bus mix ing network R l0l through R104.
+
+The control voltages required to op e..a te Ih e PROGRAM sw i l Ch Z2 and the CUE switch 2S are generated wllh the aid of logic circuitry utilizing Integ..al ed circuits 21 through 210.
+
+l8 i saC MOS dual flip-flop serving as a latch t o maintain the status of l 2 and Z5, once they have been set to either the ON or the OFF position.
+
+A number of Individual Input functions govern the status of the dual flip_flop l8. A description of each Input fun c t ion follows:
+
+When power Is Initially applied to the system, the combination of CR9, CR10, CRll and CR40 will pull down both &quot;dear&quot; inputs of Z8 until C40 Is fully ch ar&quot;g ed, thus ensuring that switch es Z2 and ZS are in the OFF position.
+
+Momentar&quot;Y operation of the CHANNEL ON switch SW9 will produce a negative going pulse at Z8, pin 2 and &quot;prese t &quot; the Ase(; tion of Z8. Alternatively, a momentary ground clo sur&quot;e oft he EXTERNAL CHANNEL ON control input at P2, pin N will result Int h e same condition.
+
+Once the flip_flop Is &quot; pr&quot; ese t &quot;, Its output a t pin I S changes from 0 t o I (app ro xi mate l y +10 volts). This will cause the PROGRAM switch Z2 to switch ON. Furthermore, Ot2 will saturate resulting int h e CHANNEL ON Ind ic a tOr&quot; lamp OS3 to switch on. With QI2 sat u N l ted, the &quot;control common &quot; potential app ears at the emll te r s of 0 13 and 0\4. Apo sitiv e base potential is applied toe i the r&quot; 01 3 or 01 4, depend ing On whether INPUT SELECTORs witch SWI or SW2 I s depressed. Eff e(;t lvely 0 13 and 0 14 operates l m l l a r&quot;l y to l WO AND gates. The coueerce soft he two transistors represent the outputs of the AND gates. They app ear a t P2, pin 13 and P. These terminals are capable of sinking a maximum current of 40 mA each from 1I 24 volt source and mllY be used fOr&quot; muting purposes.
+
+When operating the CHANNEL ON switch SW9, 1I separate contact Is closed, accessible atP 2, pins I S/ S. This contact maybe used for s i multan eo us &quot; machine stll r&quot;t&quot;.
+
+Pin R of P2 i s isolated through diode CR3. When connected in parallel
+
+with the same output of other modules, it provides a convenient OR gale co nfigurlltion, suitable to r&quot;e set a common timer&quot; each time a
+
+CIiAN NEL ON button is depressed.
+
+Mome t ar-y op er-atio... of the CHANNEL OFFs w ilc h SW8 or mom e...tary g rou d cl o sur-e of the EXTERNAL CHANNEL OFF control i...put at 1'2, pi... 12 will r-e sult 1... a...eg a ti v e goi...g pulse a t ZB, pi... 3 a...d -cte e e'' the esee ue... of Z8, pr-oduci...g 0 volts at Z8, pi... 15. cco eeco e...uv, Z2 wills witch OFF, a12 wills top conduC II g, eeusr...g 053 toe x t l...gui sh, a...d the mutl...g contr-ol outputs al 1'2, pis 13 a...d P will be disabled.
+
+A separ-at e cont act 15 available 0... SW8 a...d I s accessible at 1'2, p i...s 17/U. It maybe used for- &quot;maChine stop &quot;.
+
+A sep a r-at e CHANNEL OFF tally lamp Is built I...to 5W8 a...d is connected to P2, 1'1...5 18/V.
+
+The asecuc... of ZB i s used to control the solids tate cue switch 25. The flip-flop will en e...ge state each lime a...eg a t l v e goi...g tr-a n s l t lon takes place a t pi... 6 of 28. Consequently, with each I...pu t pulse, the CUE ch a...n el willa l te r-...ate eetw een ON a...d OFF.
+
+This ee e...g e of slate ce... be brought about by any c...e of three dlffer-e...t methods:
+
+a) Mom e t ar-y op er-ation of the CUEs witch SW12 (a). b } Mome tary grou...d closur-e of the EXTERNAL CUE co...trol I...p ut at P2, pi... II.
+
+cl oceee uc... of the &quot;ov er-pres s&quot; switch SW11, located at at te...u.. torb eyo...d the &quot; I...f l...l l e &quot; posltlon,
+
+The ON status of the CUE cha......e r is i...e ace ree by 052, dr-i v e... by all.
+
+A..... dditione 1 f e.. ture e...sures th.. t the CUE che......e r will.. I ways switch to OFF w he...everth esl ide atte...u atori s moved c...to orawa y
+
+fr-om the &quot;I...fl...l te &quot; po sltio n, r-egar-dl e ss of its pr-iors tate. The cco n-er
+
+5 i g...a l forthi saC llon i s i...lti ated by the cha&quot;'ge of state of theA TTE NUA TOR CUTs witCh 5W10. The ee svn e...t level cne n ge, b el g
+
+ej the rp os it iv e or-...ega t i ve goi...g,; 5 processed through Z 7, Z9 a d
+
+Z 10.
+
+WARO ·SEC K BY STEMS LTO.
+
+The output p..oduced at pin 4 of Z10 wIlla l ways b e a negative going pulse of app r-ox lm atel y 500 mill i seconds du..euen • CRI2 passes this pulse to Z8, pin 8, the r:eb y &quot;c lea.. ing&quot; the B-section of the flip-flop, and r-es u l ting in pin II of Z8 10 switch to (0....ema ina t} 0 volts, i n tu..n switch ing the CUEs witch Z5 to OFF.
+
+All logic control Inputs e r-e buffe r-ec to gu a..d against sp u r-i ou s noise and switch bounce.
+
+Pow e.. Supply Decou p l1ng
+
+Po...e rs u p ply dec oupl lng i s provided b y R146 toR I4 9 and C50 to C53. CR16 and CR 17 se r-v e top..even t ampl lf l e.. damage Int h e event o f supply voltage r eve..s a l. The d ecOlJp l l ng n etwo..k drops the +/ _25 volt supply r-a il s to a nominal voltage of +/_ 18 volts. 01 5 d ecOlJpl es and fllte r-s the positive supply.... ii,.. esu l ting In an output o f +12 volts to ope r:a te the CMOS cb-cu f e.. y. In.. ddit lon, Z3 and Z4 a &quot;e f u.. the r: decoupl ed by R54, R55, C21 and C22.
+
+DESCRIPTION MFG PART NUMBER
+
+Al le r'lUll lOr Ic/w cOl'm ecl or) P.G 1550 / AH35 /100
+
+C, C l!l P ~ c ll or 0.01 of Aee tee CQ92MC103M C2 560 p F Ph !! l p 5 2222-630-03561 CJ 47pF 2222-6JB-70479 C4 4.7 &quot;uF /25 V Kernel TJ9 OC475M025AS
+
+C. 2.2 p F Ph:,l l p 5 2222 _6JB _0322 8 C7 3.9 pF 2222-6JB-09398 C8 150 u F/6 V Ke mel T390 EI57M OO6AS C, 10 uF /25 V T39OC106M025 AS CIO 220 uF/10 V T390 F227MOIOAS
+
+CI1 150 pF Ph, t,ll p 5 2222-638-70151 C12 4.7 pF 2222 -638-09478 cia 220 uF /to V T390F227M010AS cte 4.7 uF /to V T39OB475M010AS COS 4.7 u F/ I O V
+
+ere 0.33 uF /35 V T390A334M 035AS crz 10 uF /2 5 V T390C 106M025AS CI8 10 u F/25 V C&quot; 4.7,f'F P h~,llp 5
+
+C21 47 u F/25 V 426ETF47
+
+O2J 33 ~,F/ I O V T390D336M 0 10AS
+
+C2S 68 00 p F
+
+C26 2.2 u F/ 25 V T39OB225M025 A.S C27 4.7 u F/ l0 V T39OB475M0 10AS
+
+C29 6.8 u F/16 V T39OB68SM0 16AS
+
+CJ&gt; 4.7 &quot;uF /l 0 V T39OB47SMOIOA$
+
+03 2
+
+WA~ CBECK SYSTEMS LTC.
+
+DESCRIPTION MFG PART NUMBER
+
+C33 C ap~c1tor 6800pF Asel eo e092_MC_682M C34 2.2 uF / 25 V Keme t T39QB225M025AS CJ5 0.1 uF /35 V T390 Al04M035 AS
+
+CJ6 delete CJ7 Cap ~eltor 0.1 uF /35 V Kemet n90A104M035 AS CJ8 1 uF/35 V T39OB105M035AS
+
+esc 47 u F/25 V T390E476M0 25AS
+
+COl 1 u F/35 V T3906105 M035 AS m 4.7 uF / l0 V T390B475 M010AS W 2.2 uF /25 V T3906225M025AS CU 1 uF/35 V T39OB105M035 AS css 10 uF /25 V T39OC106M025 AS
+
+C46 6800 pF C092-MC-682M W delete C&lt;8 e ap ~c1tor 10 ~,F/25 V Keme t n9OC106M025AS
+
+CSO 22 uF /2 5 V Philips
+
+CRl Diode Fairchild lN4148
+
+CRJ Motorola lN4003 CR. Fairch ild lN4148
+
+CR' delete
+
+CR' Diode cere
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
