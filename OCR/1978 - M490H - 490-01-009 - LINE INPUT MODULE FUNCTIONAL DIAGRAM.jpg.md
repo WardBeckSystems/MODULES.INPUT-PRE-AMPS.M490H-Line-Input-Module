@@ -1,5 +1,5 @@
 # 1978 - M490H - 490-01-009 - LINE INPUT MODULE FUNCTIONAL DIAGRAM.jpg
-Wiki page: [M490H](../../../../PAGES/M490H.md)
+Wiki page: [M490H](../)
 
 
 - **Year:** 1978 (module estimate (family))

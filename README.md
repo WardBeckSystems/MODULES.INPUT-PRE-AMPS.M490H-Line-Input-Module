@@ -1,6 +1,6 @@
 # M490H Line Input Module · Input Pre Amps
 
-Ward-Beck Systems M490H, 1978|11. Wiki page: [M490H on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490H.html)
+Ward-Beck Systems M490H, 1978|11. Wiki page: [M490H on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490H-Line-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

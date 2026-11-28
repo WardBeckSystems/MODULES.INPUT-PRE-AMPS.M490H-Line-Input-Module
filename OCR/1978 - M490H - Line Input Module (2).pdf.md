@@ -1,5 +1,5 @@
 # 1978 - M490H - Line Input Module (2).pdf
-Wiki page: [M490H](../../../../PAGES/M490H.md)
+Wiki page: [M490H](../)
 
 
 - **Year:** 1978 (module estimate (family))

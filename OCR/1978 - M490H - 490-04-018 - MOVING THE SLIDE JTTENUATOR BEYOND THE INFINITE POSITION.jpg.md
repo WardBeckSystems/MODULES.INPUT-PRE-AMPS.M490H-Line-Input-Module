@@ -1,5 +1,5 @@
 # 1978 - M490H - 490-04-018 - MOVING THE SLIDE JTTENUATOR BEYOND THE INFINITE POSITION.jpg
-Wiki page: [M490H](../../../../PAGES/M490H.md)
+Wiki page: [M490H](../)
 
 
 - **Year:** 1978 (module estimate (family))

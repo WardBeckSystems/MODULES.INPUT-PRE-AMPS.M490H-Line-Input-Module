@@ -1,5 +1,5 @@
 # 1978 - M490H - 490-04-017 - CUE OUT RIGHT OFF TALLY.jpg
-Wiki page: [M490H](../../../../PAGES/M490H.md)
+Wiki page: [M490H](../)
 
 
 - **Year:** 1978 (module estimate (family))
